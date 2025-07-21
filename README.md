@@ -1,4 +1,4 @@
 # demo-
 this is my demo  repository
 <br>
-Author - Kiran Ghadashi
+Author - Kiran Ghadashi (Full Stack Python Developer)
